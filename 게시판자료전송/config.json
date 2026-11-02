@@ -1,0 +1,30 @@
+{
+  "_안내": "여기에 그룹웨어 감시용 계정을 입력하세요. 이 파일은 외부에 공유하지 마세요.",
+  "id": "jichang999",
+  "pw": "wlckd7305*",
+
+  "중지": false,
+  "_중지_설명": "true 면 watch.js 가 로그인도 하지 않고 즉시 끝난다(발송 정지). 재개하려면 false.",
+
+  "허용도메인": "askwhy.co.kr",
+  "_허용도메인_설명": "댓글 이메일이 이 도메인(@askwhy.co.kr)이 아니면 전송하지 않음. 고정값이라 바꾸지 마세요.",
+
+  "게시판명": "AI자동화 공유",
+  "게시판번호": "900000288",
+
+  "github링크형식": "https://jichang999-dotcom.github.io/tes2/axs/54dc7e522f0a5480/out/{회차}/T1_부서장회의_{회차}.html",
+
+  "_주차매핑_설명": "게시글 제목의 'N월 M주차' 또는 'N월 M번째' → 자료 회차(YYYYMMDD). 새 글 올릴 때 한 줄씩 추가.",
+  "_주차매핑_값": "회차(YYYYMMDD) 또는 링크 전체(http로 시작). 링크를 쓰면 github링크형식을 무시하고 그대로 보낸다.",
+  "_주차매핑_주의": "두 형식은 같은 키를 쓴다(9월 2주차 = 9월 두번째 = 9-2). 한 달 안에서 섞어 쓰지 말 것.",
+  "주차매핑": {
+    "9-1": "20260909",
+    "9-2": "https://jichang999-dotcom.github.io/tes2/ax_study/claude-code-setup-guide.html",
+    "9-3": "https://jichang999-dotcom.github.io/tes2/ax_study/claude-code-build-app.html",
+    "10-4": "https://jichang999-dotcom.github.io/tes2/ax_study/claude-code-skills-agents.html"
+  },
+
+  "메일제목형식": "[AI자동화 사례 공유] {제목}",
+
+  "_안내_실행": "감시 실행: node watch.js  (테스트: node watch.js --dry-run 은 발송·기록 안 함)"
+}
