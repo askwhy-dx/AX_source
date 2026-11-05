@@ -1,6 +1,6 @@
 {
   "점검|테스트 알림입니다 (실제 사고 아님)": 1789525897482,
-  "watch.js|fetch failed": 1792558801568,
-  "watch.js|로그인 실패 (actionLogin 단계, status=200, 본문=\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<!DOCTYPE html>\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"ko\" xml:lang=\"ko\">\r\n<head>\r\n\r\n    <script>\r\n    \tif (window.lo": 1790911811849,
+  "watch.js|fetch failed": 1793818811827,
+  "watch.js|로그인 실패 (actionLogin 단계, status=200, 본문=\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<!DOCTYPE html>\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"ko\" xml:lang=\"ko\">\r\n<head>\r\n\r\n    <script>\r\n    \tif (window.lo": 1793784601131,
   "주차매핑 누락|\"9월 두번째 공유 - AI자동화 사례 - 매번 올리고 또 물어보시나요?\" 의 주차 9-2 링크 매핑이 없어 발송 못 함": 1790065963894
 }
