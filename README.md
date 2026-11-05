@@ -2021,6 +2021,11 @@ CSV 를 볼 때 사람이 판단합니다.
 
 ## §8. 변경 이력
 
+### 2026-11-05 — 7tr · 8tr · 9tr 회차 신설 (사용자 지시 · advance 2step · master 확정 구성)
+- 새 회차 폴더 `out/20261109`(7tr-advance-2step · 체험 · 「11월 두번째」) · `out/20261116`(8tr-master-1step · 교육 · 「11월 세번째」) · `out/20261123`(9tr-master-2step · 체험 · 「11월 네번째」). 날짜 = 1주 간격 자리 잡기(사용자 「날짜 신경 쓰지 말고」 · 7tr 만 팀별 진행표 부서장 다음 차수 11-09).
+- 정본 = `AX_study/advance/2step/advance_2step_기획.html` · `master/1step/master_1step_기획.html` · `master/2step/master_2step_기획.html`. 링크 칩 = 7tr 만 advance-2step(`claude-code-agent-team.html` · 가이드 v3.0) · master 는 가이드 없음.
+- `config/회차이름.json` · `회차버튼이름.json` 세 줄 추가 · `교육목록.json` advance 2step · master 두 칸을 새 컨셉(팀 꾸리기 · 스스로 지키기 · 팀에 퍼뜨리기)으로. 백업 `archive/20261105_new_rounds/`. 툰 · 게시판 글 · 주차매핑 없음.
+
 ### 2026-10-29 — 6tr-Advance-교육 회차 신설 (사용자 지시)
 - 새 회차 폴더 `out/20261102`(날짜 = 팀별 진행표 부서장 3차 Advance 교육 예정일) · `회차유형.json` 카테고리 교육 · 정본 = `AX_study/advance/1step/advance_1step_기획.html`(Playwright MCP 확정 · 9 PART 12단계).
 - `config/회차버튼이름.json` 「6tr-Advance-교육」 · `config/회차이름.json` 「11월 첫번째」(월요일 폴더라 자동 순번이 안 맞음). 백업 `archive/261029_6tr_advance_edu/`.
