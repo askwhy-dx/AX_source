@@ -63,16 +63,16 @@
       "구분": "1step",
       "컨셉": "스스로 지키기",
       "이름": "스스로 지키기",
-      "링크": "",
-      "내용": "Auto Memory · 훅(원본 보호 · 비밀정보 검사) · 하네스(전/후 3회 비교) · 루프(끝 조건)"
+      "링크": "https://jichang999-dotcom.github.io/tes2/ax_study/claude-code-self-guard.html",
+      "내용": "Auto Memory · 훅(원본 보호 · 비밀정보 검사) · 하네스(전/후 3회 비교) · 루프(끝 조건) (8단계)"
     },
     {
       "과정": "master",
       "구분": "2step",
       "컨셉": "팀에 퍼뜨리기",
       "이름": "팀에 퍼뜨리기",
-      "링크": "",
-      "내용": "플러그인(하네스를 팀에 배포) · 모드(상태줄 · 팀용 커맨드) · 슬랙 봇(유삐 방식 DM 보고)"
+      "링크": "https://jichang999-dotcom.github.io/tes2/ax_study/claude-code-team-share.html",
+      "내용": "슬랙 봇(유삐 방식 DM 보고) → 플러그인(하네스를 팀에 배포 · 짝에게 설치) → 모드(상태줄 · 팀용 커맨드 /cs-report) (7단계)"
     }
   ]
 }

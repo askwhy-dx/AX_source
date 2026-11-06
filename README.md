@@ -2021,6 +2021,10 @@ CSV 를 볼 때 사람이 판단합니다.
 
 ## §8. 변경 이력
 
+### 2026-11-06 — master 가이드 v1.0 반영 · 8tr · 9tr 기획서 · ③ 교육 링크 발행 (사용자 지시)
+- 9tr(master 2step) 순서를 슬랙 봇 → 플러그인 → 모드로 · 소재 = advance 2step 의 cs_practice. `out/20261116` · `out/20261123` `회차유형.json` 고침 → build_brief → `publish --plan`.
+- `config/교육목록.json` master 두 칸에 가이드 링크(`claude-code-self-guard.html` · `claude-code-team-share.html`) · 2step 내용을 새 순서로 → 「준비 중」 없어짐 → build_page · sysdoc · self_test PASS → 발행(커밋 0dbe374).
+
 ### 2026-11-05 — 7tr · 8tr · 9tr 회차 신설 (사용자 지시 · advance 2step · master 확정 구성)
 - 새 회차 폴더 `out/20261109`(7tr-advance-2step · 체험 · 「11월 두번째」) · `out/20261116`(8tr-master-1step · 교육 · 「11월 세번째」) · `out/20261123`(9tr-master-2step · 체험 · 「11월 네번째」). 날짜 = 1주 간격 자리 잡기(사용자 「날짜 신경 쓰지 말고」 · 7tr 만 팀별 진행표 부서장 다음 차수 11-09).
 - 정본 = `AX_study/advance/2step/advance_2step_기획.html` · `master/1step/master_1step_기획.html` · `master/2step/master_2step_기획.html`. 링크 칩 = 7tr 만 advance-2step(`claude-code-agent-team.html` · 가이드 v3.0) · master 는 가이드 없음.
