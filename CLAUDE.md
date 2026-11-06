@@ -27,7 +27,7 @@
 | `20261102` | 11월 첫번째 (Advance 교육 · 10-29) | 6tr-advance-1step | 정본 = `AX_study/advance/1step/advance_1step_기획.html` · 링크 칩 = advance-1step(`claude-code-automation.html`) · advance-2step · 가이드 v2.0(19단계)에 맞춰 10-29 재발행(커밋 807c337) · 가이드는 10-30 v2.2(카드 실측 반영 · 단계 번호 그대로 · 회차 재발행 안 함) · 툰 · 게시판 글 없음 |
 | `20261109` | 11월 두번째 (advance 2step 팀 꾸리기 · 11-05) | 7tr-advance-2step | 정본 = `AX_study/advance/2step/advance_2step_기획.html` · 칩 = advance-2step(가이드 v3.0) · 툰 · 게시판 글 없음 |
 | `20261116` | 11월 세번째 (master 1step 스스로 지키기 · 11-05) | 8tr-master-1step | 정본 = `AX_study/master/1step/master_1step_기획.html` · 날짜는 자리 잡기 · 칩·③ 교육 = master-1step(`claude-code-self-guard.html` · 가이드 v1.0 · 11-06) |
-| `20261123` | 11월 네번째 (master 2step 팀에 퍼뜨리기 · 11-05) | 9tr-master-2step | 정본 = `AX_study/master/2step/master_2step_기획.html` · 날짜는 자리 잡기 · 순서 = 슬랙 봇 → 플러그인 → 모드(11-06) · 칩·③ 교육 = master-2step(`claude-code-team-share.html` · 가이드 v1.0) |
+| `20261123` | 11월 네번째 (master 2step 팀에 퍼뜨리기 · 11-05) | 9tr-master-2step | 정본 = `AX_study/master/2step/master_2step_기획.html` · 날짜는 자리 잡기 · 11-06 개편 = 교육생 슬랙 봇 + 헤르메스(1~3) · 플러그인 · 모드 = 강사 시연 · 칩·③ 교육 = master-2step(`claude-code-team-share.html` · 가이드 v2.0) |
 
 - **과정 표기 = AX_study 폴더 이름**(10-30 통일: starter/basic/advance/master · 1step/2step): 버튼 `Ntr-<과정>-<1step|2step>` · 가이드 칩(`out/<회차>/회차유형.json` 링크 「이름」) = `starter-1step` · `starter-2step` · `basic-1step` · `basic-2step`. 새 과정 회차도 이 꼴로.
 - **회차 이름**(`회차이름.json`)은 게시판 글 제목과 자료 메일 발송 키(`9-3` 등)까지 쓴다. **바꾸면 `게시판자료전송/config.json` 주차매핑도 같이.**

@@ -2022,6 +2022,7 @@ CSV 를 볼 때 사람이 판단합니다.
 ## §8. 변경 이력
 
 ### 2026-11-06 — master 가이드 v1.0 반영 · 8tr · 9tr 기획서 · ③ 교육 링크 발행 (사용자 지시)
+- 9tr(master 2step) 개편(11-06 사용자): 교육생 = 슬랙 봇 + 헤르메스(설치 · 내 Claude 연결 · 봇 연결 · 휴대폰으로 시키기) · 플러그인 · 모드 = 강사 시연 · 가이드 v2.0. `out/20261123/회차유형.json` 고침 → `AX_ROUND_DAY=20261123` build_brief → `publish --plan`.
 - 9tr(master 2step) 순서를 슬랙 봇 → 플러그인 → 모드로 · 소재 = advance 2step 의 cs_practice. `out/20261116` · `out/20261123` `회차유형.json` 고침 → build_brief → `publish --plan`.
 - `config/교육목록.json` master 두 칸에 가이드 링크(`claude-code-self-guard.html` · `claude-code-team-share.html`) · 2step 내용을 새 순서로 → 「준비 중」 없어짐 → build_page · sysdoc · self_test PASS → 발행(커밋 0dbe374).
 
